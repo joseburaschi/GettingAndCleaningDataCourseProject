@@ -1,5 +1,5 @@
 setProjectVariables <- function(){
-  projDataDir <<- "/Users/jaburaschi/DataScience/Coursera/Rpractice/GetCleanDataProject/UCI HAR Dataset"
+  projDataDir <<- ""
 }
 
 loadLabels <- function( pDirectory ) {
